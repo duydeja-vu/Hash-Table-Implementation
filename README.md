@@ -1,2 +1,2 @@
 # Hash-Table-Implementation
-Use hash data structure for optimal searching.
+Use Hash-Table data structure for optimal searching.
